@@ -1,7 +1,7 @@
 # meta-ads-cli
 
-[![npm version](https://img.shields.io/npm/v/@marketing-clis/meta-ads-cli)](https://www.npmjs.com/package/@marketing-clis/meta-ads-cli)
-[![CI](https://github.com/marketing-clis/meta-ads-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/marketing-clis/meta-ads-cli/actions)
+[![npm version](https://img.shields.io/npm/v/@funnelenvy/meta-ads-cli)](https://www.npmjs.com/package/@funnelenvy/meta-ads-cli)
+[![CI](https://github.com/FunnelEnvy/meta-ads-cli/actions/workflows/ci.yml/badge.svg)](https://github.com/FunnelEnvy/meta-ads-cli/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Command-line interface for the Meta (Facebook) Marketing API. Manage campaigns, ad sets, ads, insights, and audiences from your terminal.
@@ -9,7 +9,7 @@ Command-line interface for the Meta (Facebook) Marketing API. Manage campaigns, 
 ## Install
 
 ```bash
-npm install -g @marketing-clis/meta-ads-cli
+npm install -g @funnelenvy/meta-ads-cli
 ```
 
 ## Quick Start
@@ -172,7 +172,7 @@ Config file location: `~/.config/meta-ads-cli/config.json`
 ## Development
 
 ```bash
-git clone https://github.com/marketing-clis/meta-ads-cli.git
+git clone https://github.com/FunnelEnvy/meta-ads-cli.git
 cd meta-ads-cli
 pnpm install
 pnpm run build
@@ -183,7 +183,7 @@ pnpm run lint
 
 ## Part of Marketing CLIs
 
-This tool is part of [Marketing CLIs](https://github.com/marketing-clis/marketing-clis) -- open source CLIs for marketing tools that have APIs but lack command-line interfaces.
+This tool is part of [Marketing CLIs](https://github.com/FunnelEnvy/marketing-clis) -- open source CLIs for marketing tools that have APIs but lack command-line interfaces.
 
 ## License
 
