@@ -46,9 +46,12 @@
     "@typescript-eslint/parser": "^8.56.1",
     "eslint": "^10.0.2",
     "nock": "^14.0.0",
-    "tsup": "^8.0.0",
+    "tsup": "^8.5.1",
     "typescript": "^5.4.0",
-    "vitest": "^1.6.0"
+    "vitest": "^1.6.1"
+  },
+  "overrides": {
+    "rollup": ">=4.59.0"
   },
   "engines": {
     "node": ">=20.0.0"
